@@ -1,0 +1,42 @@
+
+body {
+	margin: 25px;
+}
+
+h1 {
+	font-family: Helvetica, sans-serif;
+	font-size: 26px;
+	position: absolute;
+	left: 450px;
+	top: 300px;
+}
+
+h2 {
+	font-family: Helvetica, sans-serif;
+	font-size: 34px;
+	position: absolute;
+	left: 450;
+	top: 320px;
+}
+
+#text {
+	position: absolute;
+	left: 295px;
+	top: 420px;
+	width: 400px;
+	margin-right: 25px;
+}
+
+#bio {
+	text-align: justify;
+}
+
+p {
+    font-family: "Palatino Linotype", "Book Antiqua", serif;
+    font-size: 16px;
+    line-height: 150%;
+}
+
+img {
+    max-width: 600px;
+}
